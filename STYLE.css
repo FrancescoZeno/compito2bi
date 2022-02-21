@@ -1,0 +1,14 @@
+.body{
+   background-color: #dafdda;
+}
+iframe{
+    
+    background-color: white;
+    width: 1200px ;
+    height: 637px;
+    border: 20px ridge ;
+}
+.titolo{
+    border: 1px solid black;
+    background-color: white;
+}
