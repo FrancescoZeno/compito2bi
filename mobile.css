@@ -1,0 +1,18 @@
+@media screen and (max-width:1300px) {
+    .iframe{
+        float: none;
+        display: block;
+        width: 99%;  
+    }
+    .left{
+        display: block;
+        float: left;
+        top: 0%;
+    }
+    .right{
+        display: block;
+        float: right;
+        top: 6%;
+    }
+
+   }    
