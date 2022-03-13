@@ -1,4 +1,8 @@
+.img{
 
+  width: 500px;
+  height: 300px;
+}
 p{
   font-size:large;
 }
@@ -41,7 +45,7 @@ p{
 }
 .imghome{
 
-    width: 90%;
+    width: 85%;
     height: 580px;
     display: block;
     margin-left: auto;

@@ -7,12 +7,12 @@
     .left{
         display: block;
         float: left;
-        top: 0%    
+        top: 0%;    
     }
     .right{
         display: block;
         float: right;
-        top: 3%;
+        top: 2.5%;
     }
     .body{
         width: 100%;
@@ -20,7 +20,9 @@
 
         
     }
-    
+    .img{
+        max-width: 100%;
+    }
 
 
    }    
