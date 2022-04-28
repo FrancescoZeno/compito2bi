@@ -1,16 +1,16 @@
 @media screen and (max-width:1300px) {
     .iframe{
         float: none;
-        display: block;
+        display: flex;
         width: 99%;  
     }
     .left{
-        display: block;
+        display: flex;
         float: left;
         top: 0%;    
     }
     .right{
-        display: block;
+        display: flex;
         float: right;
         top: 2.5%;
     }
@@ -21,7 +21,7 @@
         
     }
     .img{
-        max-width: 100%;
+        width: 100%;
     }
 
 
